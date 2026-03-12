@@ -1,4 +1,4 @@
-@core_customfield @customfield_multicategory @javascript
+@customfield @customfield_multicategory @javascript
 Feature: Managers can manage course custom fields multicategory
   In order to associate courses with multiple categories
   As a manager
